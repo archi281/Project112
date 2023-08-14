@@ -1,6 +1,7 @@
 import os
 import shutil
 
+#from_dir and to_dir would change depending on the file(s)
 from_dir = "C:/Users/archi/Downloads"
 to_dir = "C:/Users/archi/OneDrive/Desktop/WhiteHatJr/Pro C111 Prj/Document_Files"
 
